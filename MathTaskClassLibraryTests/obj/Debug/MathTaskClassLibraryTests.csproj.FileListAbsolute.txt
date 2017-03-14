@@ -1,0 +1,7 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MathTaskClassLibrary\MathTaskClassLibraryTests\bin\Debug\MathTaskClassLibraryTests.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MathTaskClassLibrary\MathTaskClassLibraryTests\bin\Debug\MathTaskClassLibraryTests.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MathTaskClassLibrary\MathTaskClassLibraryTests\bin\Debug\MathTaskClassLibrary.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MathTaskClassLibrary\MathTaskClassLibraryTests\bin\Debug\MathTaskClassLibrary.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MathTaskClassLibrary\MathTaskClassLibraryTests\obj\Debug\MathTaskClassLibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MathTaskClassLibrary\MathTaskClassLibraryTests\obj\Debug\MathTaskClassLibraryTests.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\MathTaskClassLibrary\MathTaskClassLibraryTests\obj\Debug\MathTaskClassLibraryTests.pdb
